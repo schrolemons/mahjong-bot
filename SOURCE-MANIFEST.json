@@ -1,0 +1,78 @@
+{
+  "source_commit": "c16eaa9fa7266be66da4fbd410c5223fab616d5f",
+  "extraction": "Source snapshot only; IDE metadata and old Git history excluded",
+  "files": [
+    {
+      "path": "CMakeLists.txt",
+      "sha256": "db1ca629b5cddb7c616518cef9a6625135b1b30cadede79938146ccc4e1d1e76"
+    },
+    {
+      "path": "ChineseOfficialMahjongHelper/Classes/mahjong-algorithm/CHANGELOG",
+      "sha256": "4aa2268a0f73e192d8d9f96440f15f44eae98de9cf5c308b4bda5a8921ef18a9"
+    },
+    {
+      "path": "ChineseOfficialMahjongHelper/Classes/mahjong-algorithm/LICENSE",
+      "sha256": "ed84a09c3b738d20f7160b6d9ac19c1ce624018026da68b4529001ab3e3d3aa8"
+    },
+    {
+      "path": "ChineseOfficialMahjongHelper/Classes/mahjong-algorithm/README-zh.md",
+      "sha256": "399a9457701dd10207b045e8692d91c660918237f836a6f99d2b5f1b2e668632"
+    },
+    {
+      "path": "ChineseOfficialMahjongHelper/Classes/mahjong-algorithm/README.md",
+      "sha256": "f84f08a9c44035465d97a173ce338741de71a9b91c124cf33250b504ab956d3a"
+    },
+    {
+      "path": "ChineseOfficialMahjongHelper/Classes/mahjong-algorithm/fan_calculator.cpp",
+      "sha256": "560e8b60d1c64ee977b223ff8ead91205eb27478de2d0d0045f5b663b185bd2b"
+    },
+    {
+      "path": "ChineseOfficialMahjongHelper/Classes/mahjong-algorithm/fan_calculator.h",
+      "sha256": "958607096b8637bf98e6806305833005c8734ad0eba5dc7d60d2411eb66d14b4"
+    },
+    {
+      "path": "ChineseOfficialMahjongHelper/Classes/mahjong-algorithm/shanten.cpp",
+      "sha256": "83dfaaa89804f962c1c56920041e73749e103a70a21796cea1e6406f038264de"
+    },
+    {
+      "path": "ChineseOfficialMahjongHelper/Classes/mahjong-algorithm/shanten.h",
+      "sha256": "6de7a173bc2e127b3018784164174ee763164dd07d914a2aa4fd245aa00e9451"
+    },
+    {
+      "path": "ChineseOfficialMahjongHelper/Classes/mahjong-algorithm/standard_tiles.h",
+      "sha256": "c035104cc87d8dc26e1c8baee72170ad178fa073cd1bb3fc695529adf1606582"
+    },
+    {
+      "path": "ChineseOfficialMahjongHelper/Classes/mahjong-algorithm/stringify.cpp",
+      "sha256": "108793eb6e990548597fb219222ea4ddb479e308a233e8bbce35440c932b3f08"
+    },
+    {
+      "path": "ChineseOfficialMahjongHelper/Classes/mahjong-algorithm/stringify.h",
+      "sha256": "616a7d66aa22b1e41b5b226f9489225696699880b5df20ebf3bd21b410801841"
+    },
+    {
+      "path": "ChineseOfficialMahjongHelper/Classes/mahjong-algorithm/tile.h",
+      "sha256": "558ee800a0e5e569cf23d96cf7cf0dcd3bfb9ae74c2efe9ae933636fcd5c8641"
+    },
+    {
+      "path": "ChineseOfficialMahjongHelper/Classes/mahjong-algorithm/unit_test.cpp",
+      "sha256": "a34f35cee4942c9aaa2ba907ec503b0fd1a80048746ee6d90a98bc15cf374f68"
+    },
+    {
+      "path": "MahjongGB/MahjongGB.cpp",
+      "sha256": "bfe84263b8e7698354a9716ecf8114fae0294134cc30f2d9a3b1e4651b590fd0"
+    },
+    {
+      "path": "MahjongGB/MahjongGB.h",
+      "sha256": "3301fd8365f087a0260b1d25dd7aff0035ca62d6287c0d2ef452137b63362747"
+    },
+    {
+      "path": "MahjongGB/README-zh.md",
+      "sha256": "4af0da53d3d864f7bdcc5bd402ea7eda198469a457d84a9b0a8010052b8e5d6e"
+    },
+    {
+      "path": "main.cpp",
+      "sha256": "c30da18b68f2e29932a2d565b69794d505fc6d67e0d57b4d0c6b1134a8b51439"
+    }
+  ]
+}

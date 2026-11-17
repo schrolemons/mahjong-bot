@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+build/
+cmake-build-*/
+__pycache__/
+*.exe
+*.o
+*.obj
+*.log
+.env
+.env.*
